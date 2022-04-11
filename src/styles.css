@@ -1,0 +1,46 @@
+body {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+header {
+  color: white;
+  background-color: yellowgreen;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  padding-left: 5%;
+}
+#saludar {
+  color: white;
+  background-color: crimson;
+  margin-left: 5%;
+  margin-right: 5%;
+  padding-top: 5.5%;
+  padding-bottom: 5.5%;
+  padding-right: 2%;
+  font-size: 395%;
+}
+#cuerpo {
+  display: flex;
+  flex-direction: column;
+  height: 80vh;
+  justify-content: center;
+  margin-block: 30px;
+  border-color: black;
+  border-radius: 1%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  background-color: cornflowerblue;
+}
+h2 {
+  text-align: center;
+}
+
+footer {
+  color: antiquewhite;
+  background-color: black;
+  text-align: end;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  padding-right: 2%;
+}
